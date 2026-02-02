@@ -1,0 +1,24 @@
+{
+  "name": "markdown-resume-pdf",
+  "version": "1.0.0",
+  "description": "Convert Markdown resumes to professionally styled PDFs",
+  "scripts": {
+    "build": "md-to-pdf dennis_kasper_resume.md --stylesheet resume-style.css --launch-options='{\"args\":[\"--no-sandbox\"]}'",
+    "build:html": "md-to-pdf dennis_kasper_resume.md --stylesheet resume-style.css --as-html --launch-options='{\"args\":[\"--no-sandbox\"]}'"
+  },
+  "keywords": [
+    "markdown",
+    "pdf",
+    "resume",
+    "cv"
+  ],
+  "author": "Dennis Kasper",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denniskasper/markdown-resume-pdf"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}

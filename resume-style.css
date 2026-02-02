@@ -1,0 +1,122 @@
+/* Modern Resume Styling */
+
+/* Base typography */
+body {
+  font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #333;
+  max-width: 210mm;
+  margin: 0 auto;
+}
+
+/* Paragraphs - justified text */
+p {
+  text-align: justify;
+  margin: 0.5em 0;
+}
+
+/* Main heading - name */
+h1 {
+  font-size: 28pt;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 0.2em;
+  border-bottom: none;
+}
+
+/* Section headings */
+h2 {
+  font-size: 14pt;
+  font-weight: 600;
+  color: #2c5282;
+  border-bottom: 2px solid #2c5282;
+  padding-bottom: 0.3em;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Job titles / subsection headings */
+h3 {
+  font-size: 12pt;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+
+/* Subtitle styling (Software Engineer) */
+h1 + p strong {
+  font-size: 13pt;
+  color: #555;
+}
+
+/* Links */
+a {
+  color: #2c5282;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Lists */
+ul {
+  margin: 0.5em 0;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+/* Dates and italic text */
+em {
+  color: #555;
+  font-style: italic;
+}
+
+/* Bold text for categories */
+strong {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+/* Profile image - floated to top right with rounded corners */
+img {
+  float: right;
+  margin: 0 0 1em 1.5em;
+  border-radius: 8px;
+}
+
+/* Contact info line spacing */
+h1 + p + p {
+  margin-bottom: 0.5em;
+}
+
+/* Reduce spacing for compact sections */
+h2 + h3 {
+  margin-top: 0.5em;
+}
+
+/* Print optimizations */
+@media print {
+  body {
+    font-size: 10pt;
+  }
+
+  h2 {
+    page-break-after: avoid;
+  }
+
+  h3 {
+    page-break-after: avoid;
+  }
+
+  ul {
+    page-break-inside: avoid;
+  }
+}
