@@ -1,5 +1,7 @@
 # Markdown Resume to PDF
 
+[![Build and Release Resume PDF](https://github.com/denniskasper/resume/actions/workflows/release.yml/badge.svg)](https://github.com/denniskasper/resume/actions/workflows/release.yml)
+
 Convert Markdown resumes to professionally styled PDFs using [md-to-pdf](https://github.com/simonhaenisch/md-to-pdf).
 
 ## Usage
