@@ -10,7 +10,7 @@ Munich, Germany
 
 ## About Me
 
-Software Engineer combining full stack development expertise with a computational mechanics foundation. 5+ years building cloud infrastructure on AWS, with strong Python skills for serverless development and automation. Hands-on experience with the full Lambda workflow—local development with AWS SAM, infrastructure as code with Terraform, and deployment to production. Background in engineering simulation provides practical experience in data transformation, validation, and working with large-scale datasets.
+Software Engineer combining full stack development expertise with a computational mechanics foundation. 5+ years building cloud infrastructure on AWS, with strong Python and TypeScript skills for serverless development and full stack applications. Hands-on experience with the full Lambda workflow—local development with AWS SAM, infrastructure as code with Terraform, and deployment to production. Background in engineering simulation provides practical experience in data transformation, validation, and working with large-scale datasets.
 
 ## Work Experience
 
