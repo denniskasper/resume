@@ -24,6 +24,14 @@ Build HTML (for preview):
 npm run build:html
 ```
 
+## Deploying to denniskasper.com
+
+The [denniskasper.com](https://github.com/denniskasper/denniskasper.com) site fetches the resume markdown and PDF at build time. After pushing changes and a new release is created, manually trigger a rebuild:
+
+```bash
+gh workflow run build-deploy.yaml --repo denniskasper/denniskasper.com
+```
+
 ## Customization
 
 - Edit `dennis_kasper_resume.md` for content
