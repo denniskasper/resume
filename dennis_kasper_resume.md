@@ -2,7 +2,7 @@
 
 # Dennis Kasper
 
-**Software Engineer**
+**Builder**
 
 Munich, Germany
 
@@ -10,7 +10,7 @@ Munich, Germany
 
 ## About Me
 
-Software Engineer combining full stack development expertise with a computational mechanics foundation. 5+ years building cloud infrastructure on AWS, with strong Python and TypeScript skills for serverless development and full stack applications. Hands-on experience with the full Lambda workflow—local development with AWS SAM, infrastructure as code with Terraform, and deployment to production. Background in engineering simulation provides practical experience in data transformation, validation, and working with large-scale datasets.
+Software Engineer combining full stack development expertise with a computational mechanics foundation. 5+ years building cloud infrastructure on AWS, with strong Python and TypeScript skills for serverless development and full stack applications. Hands-on experience with the full Lambda workflow—local development with AWS SAM, infrastructure as code with Terraform, and deployment to production. Background in engineering simulation provides practical experience in data transformation, validation, and working with large-scale datasets. Leverages agentic AI coding tools (Claude Code, GitHub Copilot) to accelerate development.
 
 ## Work Experience
 
@@ -62,6 +62,7 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 - Data & APIs: ETL pipelines, REST APIs, JSON, PostgreSQL, data modeling
 - Frameworks: FastAPI, Flask, Express, Node.js, React, Angular
 - Simulation: FEM, CFD, ANSYS, OpenFOAM
+- AI-Assisted Development: Claude Code, GitHub Copilot
 - Embedded Systems: Raspberry Pi, CAN-Bus
 
 ## Certifications

@@ -1,5 +1,10 @@
 /* Modern Resume Styling */
 
+@page {
+  size: A4;
+  margin: 15mm 20mm;
+}
+
 /* Base typography */
 body {
   font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
