@@ -36,11 +36,3 @@ gh workflow run build-deploy.yaml --repo denniskasper/denniskasper.com
 
 - Edit `dennis_kasper_resume.md` for content
 - Edit `resume-style.css` for styling
-
-## Features
-
-- Modern, professional styling
-- Justified text for clean formatting
-- Responsive section headers with accent colors
-- Floating profile image
-- Print-optimized CSS

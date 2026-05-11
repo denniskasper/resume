@@ -2,15 +2,15 @@
 
 # Dennis Kasper
 
-**Builder**
+**AI Engineer**
 
 Munich, Germany
 
-[Email](mailto:dennis.m.kasper@gmail.com) | [LinkedIn](https://linkedin.com/in/denniskasper) | [GitHub](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
+[dennis.m.kasper@gmail.com](mailto:dennis.m.kasper@gmail.com) | [LinkedIn](https://linkedin.com/in/denniskasper) | [GitHub](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
 
 ## About Me
 
-Software Engineer combining full stack development expertise with a computational mechanics foundation. 5+ years building cloud infrastructure on AWS, with strong Python and TypeScript skills for serverless development and full stack applications. Hands-on experience with the full Lambda workflow—local development with AWS SAM, infrastructure as code with Terraform, and deployment to production. Background in engineering simulation provides practical experience in data transformation, validation, and working with large-scale datasets. Leverages agentic AI coding tools (Claude Code, GitHub Copilot) to accelerate development.
+Software Engineer with a background spanning full stack development, embedded systems, and computational simulation. Over five years building end-to-end platforms in Python and TypeScript, with AWS infrastructure via Terraform and GitHub Actions CI/CD, as well as embedded tooling on Raspberry Pi with CAN FD for high-voltage battery diagnostics. Four years as a Simulation Engineer and an M.Sc. in Computational Mechanics from TUM provide a strong analytical foundation now applied to software architecture and system design. Active daily user of agentic AI workflows including GitHub Copilot, MCP servers, and agent skills.
 
 ## Work Experience
 
