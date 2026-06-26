@@ -69,6 +69,10 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 
 - Deep Learning Specialization — Coursera
 - TensorFlow in Practice — Coursera
+- Model Order Reduction — CADFEM
+- MSMD battery Module — CADFEM
+- CFD with CAD preparation and meshing — CADFEM
+- Einführung zu Dymola und Modelica — LTX
 
 ## Awards
 
