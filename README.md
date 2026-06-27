@@ -26,11 +26,11 @@ npm run build:html
 
 ## Deploying to denniskasper.com
 
-The [denniskasper.com](https://github.com/denniskasper/denniskasper.com) site fetches the resume markdown and PDF at build time. After pushing changes and a new release is created, manually trigger a rebuild:
+The [denniskasper.com](https://github.com/denniskasper/denniskasper.com) site fetches the resume markdown and PDF at build time, and is hosted on a [Dokploy](https://dokploy.com/) server that auto-deploys on every push to its `main` branch.
 
-```bash
-gh workflow run build-deploy.yaml --repo denniskasper/denniskasper.com
-```
+Deployment is fully automatic: on push to `main` here, the `release.yml` workflow builds the PDF, updates the `latest` GitHub release, then pushes an empty commit to the denniskasper.com repo to trigger a Dokploy redeploy (which re-fetches this resume). No manual step is required.
+
+This cross-repo push uses the `SITE_DEPLOY_TOKEN` repository secret — a fine-grained PAT scoped to the denniskasper.com repo with **Contents: read/write**. If deploys stop working, check whether that token has expired and regenerate it.
 
 ## Customization
 
