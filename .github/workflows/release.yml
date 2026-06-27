@@ -46,3 +46,17 @@ jobs:
           make_latest: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # denniskasper.com (Dokploy) auto-deploys on push to its repo. Pushing an
+      # empty commit there triggers a redeploy, which re-fetches this resume.
+      - name: Trigger denniskasper.com redeploy
+        env:
+          SITE_DEPLOY_TOKEN: ${{ secrets.SITE_DEPLOY_TOKEN }}
+        run: |
+          git clone --depth 1 \
+            "https://x-access-token:${SITE_DEPLOY_TOKEN}@github.com/denniskasper/denniskasper.com.git" site
+          cd site
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "chore: redeploy for resume update ${{ steps.date.outputs.date }}"
+          git push origin HEAD:main
