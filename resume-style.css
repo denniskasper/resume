@@ -37,8 +37,8 @@ h2 {
   color: #2c5282;
   border-bottom: 1px solid #2c5282;
   padding-bottom: 0.3em;
-  margin-top: 1.2em;
-  margin-bottom: 0.6em;
+  margin-top: 0.9em;
+  margin-bottom: 0.45em;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
@@ -48,8 +48,8 @@ h3 {
   font-size: 12pt;
   font-weight: 600;
   color: #1a1a1a;
-  margin-top: 1em;
-  margin-bottom: 0.3em;
+  margin-top: 0.8em;
+  margin-bottom: 0.25em;
 }
 
 /* Subtitle styling (Software Engineer) */
@@ -70,12 +70,12 @@ a:hover {
 
 /* Lists */
 ul {
-  margin: 0.5em 0;
+  margin: 0.35em 0;
   padding-left: 1.5em;
 }
 
 li {
-  margin-bottom: 0.4em;
+  margin-bottom: 0.25em;
 }
 
 /* Dates and italic text */
@@ -100,6 +100,20 @@ img {
 /* Contact info line spacing */
 h1 + p + p {
   margin-bottom: 0.5em;
+}
+
+/* Push the subtitle down so it and the location sit at the bottom of the
+   space the floated photo reserves, directly above the contact line. */
+h1 + p {
+  margin-top: 1.8em;
+}
+
+/* Contact links - clearing the float gives the line the full content width,
+   which is what lets all four fit on one line at body size. */
+h1 + p + p + p {
+  clear: right;
+  text-align: left;
+  white-space: nowrap;
 }
 
 /* Reduce spacing for compact sections */

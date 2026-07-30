@@ -2,15 +2,15 @@
 
 # Dennis Kasper
 
-**AI Engineer**
+**AI Engineer · DevOps Engineer · Simulation Engineer**
 
 Munich, Germany
 
-[dennis.m.kasper@gmail.com](mailto:dennis.m.kasper@gmail.com) | [LinkedIn](https://linkedin.com/in/denniskasper) | [GitHub](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
+[dennis.m.kasper@gmail.com](mailto:dennis.m.kasper@gmail.com) | [linkedin.com/in/denniskasper](https://linkedin.com/in/denniskasper) | [github.com/denniskasper](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
 
 ## About Me
 
-Software Engineer with a background spanning full stack development, embedded systems, and computational simulation. Over five years building end-to-end platforms in Python and TypeScript, with AWS infrastructure via Terraform and GitHub Actions CI/CD, as well as embedded tooling on Raspberry Pi with CAN FD for high-voltage battery diagnostics. Four years as a Simulation Engineer and an M.Sc. in Computational Mechanics from TUM provide a strong analytical foundation now applied to software architecture and system design. Active daily user of agentic AI workflows including GitHub Copilot, MCP servers, and agent skills.
+Software Engineer with a background spanning full stack development, embedded systems, and computational simulation. Over five years building end-to-end platforms in Python and TypeScript, with AWS infrastructure via Terraform and GitHub Actions CI/CD, as well as embedded tooling on Raspberry Pi with CAN FD for high-voltage battery diagnostics. Four years as a Simulation Engineer and an M.Sc. in Computational Mechanics from TUM provide a strong analytical foundation now applied to software architecture and system design. That simulation career covered coupled thermal and electrochemical CFD/FEM analysis of lithium-ion battery systems in ANSYS Fluent and Mechanical, Model Order Reduction for large parametric models, and a master's thesis on the discrete adjoint approach to the Spalart-Allmaras turbulence model implemented in OpenFOAM. Active daily user of agentic AI workflows including GitHub Copilot, MCP servers, and agent skills.
 
 ## Work Experience
 
