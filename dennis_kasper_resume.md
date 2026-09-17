@@ -35,6 +35,8 @@ _Nov. 2016 – Dec. 2020 · 4 Years_ — On-site, Munich
 - Built a prototype diagnostic tool using Raspberry Pi and CAN Bus (python-can) to read error memory from high-voltage battery storage.
 - Created a React-based UI for the diagnostic tool, enabling intuitive interaction with the hardware.
 
+<div style="page-break-before: always;"></div>
+
 ### Research Assistant — ILEK, University of Stuttgart
 
 _Oct. 2011 – Sept. 2013 · 2 Years_
@@ -54,6 +56,10 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 
 - _2009 – 2011_  
   _Thesis: Fluid Flow Simulations in Paint Drying Ovens (P+Z Engineering GmbH)_
+
+### Journeyman Carpenter (Schreinerausbildung) — Heinrich-Hertz-Europakolleg Bonn
+
+- _2000 – 2002_
 
 ## Skills
 
