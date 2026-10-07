@@ -73,12 +73,12 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 
 ## Certifications
 
-- Deep Learning Specialization — Coursera
-- TensorFlow in Practice — Coursera
-- Model Order Reduction — CADFEM
-- MSMD battery Module — CADFEM
-- CFD with CAD preparation and meshing — CADFEM
-- Einführung zu Dymola und Modelica — LTX
+- [Deep Learning Specialization](https://denniskasper.com/certificates/deep-learning-specialization.pdf) — Coursera
+- [DeepLearning.AI TensorFlow Developer](https://denniskasper.com/certificates/tensorflow-developer.pdf) — Coursera
+- [Model Order Reduction](https://denniskasper.com/certificates/model-order-reduction.pdf) — CADFEM
+- [MSMD battery Module](https://denniskasper.com/certificates/msmd-battery-module.pdf) — CADFEM
+- [CFD with CAD preparation and meshing](https://denniskasper.com/certificates/cfd-with-cad-preparation-and-meshing.pdf) — CADFEM
+- [Einführung zu Dymola und Modelica](https://denniskasper.com/certificates/dymola-and-modelica.pdf) — LTX
 
 ## Awards
 
