@@ -26,11 +26,11 @@ npm run build:html
 
 ## Deploying to denniskasper.com
 
-The [denniskasper.com](https://github.com/denniskasper/denniskasper.com) site fetches the resume markdown and PDF at build time, and is hosted on a [Dokploy](https://dokploy.com/) server that auto-deploys on every push to its `main` branch.
+The [denniskasper.com](https://github.com/denniskasper/denniskasper.com) site fetches the resume markdown and PDF at build time, and is hosted on [Cloudflare Workers](https://developers.cloudflare.com/workers/static-assets/) as static assets.
 
-Deployment is fully automatic: on push to `main` here, the `release.yml` workflow builds the PDF, updates the `latest` GitHub release, then pushes an empty commit to the denniskasper.com repo to trigger a Dokploy redeploy (which re-fetches this resume). No manual step is required.
+Deployment is fully automatic: on push to `main` here, the `release.yml` workflow builds the PDF, updates the `latest` GitHub release, then calls a Cloudflare Workers Deploy Hook to rebuild the site (which re-fetches this resume). No manual step is required.
 
-This cross-repo push uses the `SITE_DEPLOY_TOKEN` repository secret — a fine-grained PAT scoped to the denniskasper.com repo with **Contents: read/write**. If deploys stop working, check whether that token has expired and regenerate it.
+The hook URL is stored in the `SITE_DEPLOY_HOOK_URL` repository secret, and the workflow fails if it is missing. If deploys stop working, check that the Deploy Hook still exists in the Worker's build settings in the Cloudflare dashboard and that the secret matches its URL.
 
 ## Customization
 
