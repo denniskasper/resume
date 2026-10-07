@@ -41,7 +41,7 @@ _Nov. 2016 – Dec. 2020 · 4 Years_ — On-site, Munich
 
 _Oct. 2011 – Sept. 2013 · 2 Years_
 
-- Contributed to the construction of the Stuttgart SmartShell prototype, an adaptive lightweight structure demonstrator at ILEK.
+- Contributed to the construction of the <a href="https://www.ilek.uni-stuttgart.de/forschung/demonstratoren/stuttgart-smartshell/" target="_blank" rel="noopener noreferrer">Stuttgart SmartShell</a> prototype, an adaptive lightweight structure demonstrator at ILEK.
 - Conducted research on adaptive concrete structures and model reduction techniques for structural simulations.
 
 ## Education
