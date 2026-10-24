@@ -8,7 +8,7 @@ Munich, Germany
 
 [dennis.m.kasper@gmail.com](mailto:dennis.m.kasper@gmail.com) | [linkedin.com/in/denniskasper](https://linkedin.com/in/denniskasper) | [github.com/denniskasper](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
 
-## About Me
+## Summary
 
 Software Engineer with a background spanning full stack development, embedded systems, and computational simulation. Over five years building end-to-end platforms in Python and TypeScript, with AWS infrastructure via Terraform and GitHub Actions CI/CD, as well as embedded tooling on Raspberry Pi with CAN FD for high-voltage battery diagnostics. Four years as a Simulation Engineer and an M.Sc. in Computational Mechanics from TUM provide a strong analytical foundation now applied to software architecture and system design. That simulation career covered coupled thermal and electrochemical CFD/FEM analysis of lithium-ion battery systems in ANSYS Fluent and Mechanical, Model Order Reduction for large parametric models, and a master's thesis on the discrete adjoint approach to the Spalart-Allmaras turbulence model implemented in OpenFOAM. Active daily user of agentic AI workflows including GitHub Copilot, MCP servers, and agent skills.
 
@@ -63,13 +63,12 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 
 ## Skills
 
-- Languages: Python, SQL, TypeScript, JavaScript, MATLAB
-- Cloud & DevOps: AWS (Lambda, S3, RDS, EC2), Terraform, Docker, GitHub Actions, CI/CD, Linux
-- Data & APIs: ETL pipelines, REST APIs, JSON, PostgreSQL, data modeling
-- Frameworks: FastAPI, Flask, Express, Node.js, React, Angular
-- Simulation: FEM, CFD, ANSYS, OpenFOAM
-- AI-Assisted Development: Claude Code, GitHub Copilot
-- Embedded Systems: Raspberry Pi, CAN-Bus
+- AI & LLM: Claude Code, GitHub Copilot, MCP servers, Agent Skills, subagents, context engineering, spec-driven development, agent output evaluation, TensorFlow
+- Languages: Python, TypeScript, JavaScript, SQL, C++ (OpenFOAM solver development), MATLAB
+- Backend, Frontend & APIs: FastAPI, Flask, Node.js, Express, Angular, React, REST APIs, microservices, PostgreSQL, data modeling, ETL pipelines, JSON
+- Cloud & DevOps: AWS (Lambda, S3, RDS, EC2), Terraform, Infrastructure as Code, Docker, GitHub Actions, CI/CD, Linux
+- Practices: clean code, code reviews, pair programming, automated testing, Git, agile
+- Simulation & Embedded: FEM, CFD, ANSYS, OpenFOAM, Model Order Reduction, Raspberry Pi, CAN-Bus
 
 ## Certifications
 
@@ -82,10 +81,8 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 
 ## Awards
 
-- BDB-Buchpreis — For outstanding academic achievements, 2011
-  _(Bund Deutscher Baumeister Architekten und Ingenieure BW e.V.)_
+- BDB-Buchpreis — For outstanding academic achievements, 2011 (Bund Deutscher Baumeister Architekten und Ingenieure BW e.V.)
 
 ## Languages
 
-- German – Native
-- English – Proficient / Business Fluent
+- German (native), English (proficient / business fluent)
