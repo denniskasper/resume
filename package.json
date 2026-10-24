@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Convert Markdown resumes to professionally styled PDFs",
   "scripts": {
-    "build": "md-to-pdf dennis_kasper_resume.md --stylesheet resume-style.css --launch-options='{\"args\":[\"--no-sandbox\"]}'",
+    "build": "md-to-pdf dennis_kasper_resume.md --stylesheet resume-style.css --document-title \"Dennis Kasper - Resume\" --launch-options='{\"args\":[\"--no-sandbox\"]}'",
     "build:html": "md-to-pdf dennis_kasper_resume.md --stylesheet resume-style.css --as-html --launch-options='{\"args\":[\"--no-sandbox\"]}'"
   },
   "keywords": [
