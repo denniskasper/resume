@@ -4,7 +4,7 @@
 
 **AI Engineer · DevOps Engineer · Simulation Engineer**
 
-Munich, Germany
+Munich, Germany · Remote
 
 [dennis.m.kasper@gmail.com](mailto:dennis.m.kasper@gmail.com) | [linkedin.com/in/denniskasper](https://linkedin.com/in/denniskasper) | [github.com/denniskasper](https://github.com/denniskasper) | [denniskasper.com](https://denniskasper.com)
 
@@ -16,12 +16,12 @@ Software Engineer with a background spanning full stack development, embedded sy
 
 ### Full Stack Web Developer/DevOps Engineer — FEV EVA GmbH
 
-_Jan. 2021 – Present_ — Hybrid, Munich
+_Jan. 2021 – Present_ — Remote, Munich
 
 - Built a battery test data platform from scratch serving 10-50 department users, using Angular for the frontend and Express.js for the backend API.
 - Integrated platform with Jira via REST API for automated ticket tracking and workflow management.
 - Designed and implemented ETL pipelines for processing and transforming battery test data into structured formats for analysis and visualization.
-- Set up cloud infrastructure on AWS (Lambda, RDS, S3) using Terraform, enabling reproducible deployments across environments.
+- Set up cloud infrastructure on AWS (Lambda, ECS, EC2, API Gateway, RDS, S3, IAM, VPC, CloudWatch) using Terraform, enabling reproducible deployments across environments.
 - Implemented CI/CD pipelines with GitHub Actions, automating build, test, and deployment workflows.
 - Designed PostgreSQL database schema for efficient storage and querying of test data.
 
@@ -66,7 +66,7 @@ _Oct. 2011 – Sept. 2013 · 2 Years_
 - AI & LLM: Claude Code, GitHub Copilot, MCP servers, Agent Skills, subagents, context engineering, spec-driven development, agent output evaluation, TensorFlow
 - Languages: Python, TypeScript, JavaScript, SQL, C++ (OpenFOAM solver development), MATLAB
 - Backend, Frontend & APIs: FastAPI, Flask, Node.js, Express, Angular, React, REST APIs, microservices, PostgreSQL, data modeling, ETL pipelines, JSON
-- Cloud & DevOps: AWS (Lambda, S3, RDS, EC2), Terraform, Infrastructure as Code, Docker, GitHub Actions, CI/CD, Linux
+- Cloud & DevOps: AWS (Lambda, ECS, EC2, API Gateway, RDS, S3, IAM, VPC, CloudWatch), Terraform, Infrastructure as Code, Docker, GitHub Actions, CI/CD, Linux
 - Practices: clean code, code reviews, pair programming, automated testing, Git, agile
 - Simulation & Embedded: FEM, CFD, ANSYS, OpenFOAM, Model Order Reduction, Raspberry Pi, CAN-Bus
 
